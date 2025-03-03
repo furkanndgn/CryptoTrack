@@ -46,11 +46,11 @@ Screenshots will be added.
 
 ## Project Structure
 
-- `Core/` - Contains view components and viewmodel of the scenes.
-- `Extensions/` - Contains system extensions that used for development.
-- `Models/` - Contains API response and persistent storage models.
-- `Services/` - Manages data fetching.
-- `Utilities/` - Contains NetworkManager, handles API calls, and LocalFIleManager, handles caching for coin images.
+- `Core/` - Contains view components and ViewModels for different scenes.  
+- `Extensions/` - Includes extensions for system classes used throughout the app.  
+- `Models/` - Defines API response models and Core Data entities for persistent storage.  
+- `Services/` - Handles data fetching and business logic.  
+- `Utilities/` - Includes `NetworkManager` for API requests and `LocalFileManager` for caching coin images.  
 
 ## How It Works
 

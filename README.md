@@ -39,7 +39,7 @@ Screenshots will be added.
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/CryptoTrack.git
+   git clone https://github.com/furkanndgn/CryptoTrack.git
    ```
 2. Open the `.xcodeproj` or `.xcworkspace` file.
 3. Run the project on the simulator or a real device.
